@@ -1,5 +1,5 @@
 # SequenceMorph
-This is the project page of the TPAMI 2023 paper SequenceMorph: [TPAMI_2023 (https://ieeexplore.ieee.org/abstract/document/10039678)]
+This is the project page of the TPAMI 2023 paper SequenceMorph: [[TPAMI_2023] (https://ieeexplore.ieee.org/abstract/document/10039678)]
 
 ## SequenceMorph: A Unified Unsupervised Learning Framework for Motion Tracking on Cardiac Image Sequences.
 
