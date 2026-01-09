@@ -12,4 +12,3 @@ Motion tracking results on a cine MRI sequence:
 Motion tracking results on an echocardiography sequence:
 <div align=center><img width="650" height="500" src="https://github.com/DeepTag/SequenceMorph/blob/main/smu.png"/></div>
 
-Code coming soon ...
