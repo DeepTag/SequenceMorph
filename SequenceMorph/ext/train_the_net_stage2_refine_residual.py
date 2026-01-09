@@ -264,7 +264,7 @@ if __name__ == '__main__':
     if not os.path.exists(training_model_path):
         os.mkdir(training_model_path)
     n_epochs = 1500
-    learning_rate = 1e-4  # 5e-4
+    learning_rate = 5e-4
     batch_size = 1
     print("......HYPER-PARAMETERS 4 TRAINING......")
     print("batch size = ", batch_size)
